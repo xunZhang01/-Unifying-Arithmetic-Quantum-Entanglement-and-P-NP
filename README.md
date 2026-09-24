@@ -5,6 +5,9 @@ Authors/Creators
 zhang, xun
 ORCID icon
 Description
+
+
+
 🌌
 "There is no absolute topological rigidity that penetrates all dimensions. There is only the algorithmic rigidity of the observer's projection."
 — Zhang Xun
